@@ -26,7 +26,7 @@ function toggleFAQ(button) {
 function handlePurchase() {
     
     console.log('Compra iniciada');
-    window.location.href = 'https://www.youtube.com'
+    window.location.href = 'https://pay.cakto.com.br/u239q83_658142'
     
     // Aqui você pode adicionar a integração real com gateway de pagamento
     // Por exemplo: window.location.href = 'https://checkout.stripe.com/...';
